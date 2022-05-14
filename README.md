@@ -1,7 +1,9 @@
 # TCP
 
-### 什么是TCP：
-    Transmission control protocol
+### 4 layers of Internet:
+    Application Layer, Transport Layer, Internet Layer and Network Access Layer
+    Transport layer: TCP - Transmission control protocol
+    packets: small units of data 
       
 ### .equals() 和 == 的使用情景：
     a. 当数据类型为基本类型时， 可以用==
