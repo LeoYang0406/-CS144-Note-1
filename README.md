@@ -18,6 +18,11 @@
     
     对于不需要保证数据完整性和顺序的应用，可以用UDP(user datagram protocol) instead of TCP
     
+### Summary of 4 layers:
+    ![1111](https://user-images.githubusercontent.com/77791192/168655248-815d4e76-5f49-4752-b0e3-b207b39ba7e2.JPG)
+
+    
+    
 ### How they collaborate:
     
     总的来说 application layer所代表的一系列应用，比如Skype，communicate directly to its peer layer on the other end of the Internet
