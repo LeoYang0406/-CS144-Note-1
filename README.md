@@ -18,6 +18,11 @@
     
     对于不需要保证数据完整性和顺序的应用，可以用UDP(user datagram protocol) instead of TCP
     
+### IP的独特性:
+    IP 是 'thin wrist'
+    因为IP是一定要被用到的（if you want to use the Internet）
+    但是Link layer和transport layer都有很多其他不同的选择
+    
 ### Summary of 4 layers:
     ![1111](https://user-images.githubusercontent.com/77791192/168655248-815d4e76-5f49-4752-b0e3-b207b39ba7e2.JPG)
 
