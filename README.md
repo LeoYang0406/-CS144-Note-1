@@ -1,4 +1,4 @@
-# TCP/IP
+# 4-layer model
 
 ### 4 layers of Internet:
     Application Layer, Transport Layer, Internet Layer and Network Access Layer
